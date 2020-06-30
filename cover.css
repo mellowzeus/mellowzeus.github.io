@@ -193,12 +193,4 @@ body {
   color: rgba(0, 0, 0, 1);
   font-size:0.8em;
 }
-
-@media (max-width:767px) {
-  .features {
-  margin:20px 0;
-  }
-  .hero .h-100 {
-    height:auto !important;
-  }
 }
